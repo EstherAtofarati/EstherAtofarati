@@ -15,3 +15,18 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 
 ## About
+
+## Education
+
+Federal University Of Technology – Bachelor of Technology, Physics Electronics, 2018 - 2024
+
+## Certificates
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+Python for Data Science, AI & Development  (Aug, 2023) (Coursera - IBM)
+
+Python Project for Data Science (Sept, 2023) (Coursera - IBM)
+
+Data Science Methodology  (July, 2023) (Coursera - IBM)
+
+Databases and SQL for Data Science with Python (April, 2023)
