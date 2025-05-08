@@ -12,6 +12,9 @@ Beyond technical work, I enjoy exploring real-world datasets, refining my storyt
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+## Table of Contents
+### - Power BI:
+https://github.com/EstherAtofarati/PowerBI-Projects
 
 ## Education
 
